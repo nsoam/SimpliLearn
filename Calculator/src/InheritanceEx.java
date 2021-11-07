@@ -1,3 +1,5 @@
+//Covers Section 2.5 - Constructors
+
 class Shape {
     private int edges;
 
