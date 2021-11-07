@@ -1,3 +1,4 @@
+//Covers Section 2.3 - Methods
 import java.util.Scanner;
 
 public class MethodEx {
