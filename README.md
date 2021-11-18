@@ -1,2 +1,3 @@
 # SimpliLearn
-Self Learning Projects & Assignments
+Self Learning Projects & assignments
+
