@@ -1,3 +1,5 @@
+//Covers Section 2.15 - Arrays
+
 import java.util.ArrayList;
 import java.util.Iterator;
 

@@ -6,6 +6,15 @@ import java.util.*;
 public class CollectionsEx {
     public static void main(String[] args) {
 
+/*queue*/
+        Queue<String> queue = new PriorityQueue<>();
+        queue.add("abc");
+        queue.add("def");
+        queue.add("ghi");
+        queue.add("jkl");
+        System.out.println(queue.element());
+        System.out.println(queue.peek());
+
 /*set*/
 //    Hashset
         HashSet<String> flowers= new HashSet();
