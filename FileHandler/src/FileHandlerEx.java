@@ -7,7 +7,6 @@
 
 import java.io.File;
 import java.io.IOException;
-import java.io.ObjectOutputStream;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
@@ -24,23 +23,37 @@ public class FileHandlerEx {
         System.out.println("Please type in the name of the file");
         String name = scanner.nextLine();
         System.out.println("File name chosen: " + name);
+        String content = " ";
+        int option ;
 
-        System.out.println("To create or update a file please type in the content of the file");
-        String content = NEW_LINE + scanner.nextLine();
+        File file = new File(name);
+        if (file.exists()) {
+            System.out.println("File Found! \nTo update an existing file please type in the content of the file now else hit enter and then choose an option from the following list:");
+            content = NEW_LINE + scanner.nextLine();
 
-        File file = null;
-        ObjectOutputStream oos = null;
-
-        System.out.println("Please select an option:");
-        System.out.println("Choose 1 : To create a file");
-        System.out.println("Choose 2 : To read a file");
-        System.out.println("Choose 3 : To update a file");
-        System.out.println("Choose 4 : To delete a file");
-
-        int option = scanner.nextInt();
+            System.out.println("Options List:");
+            System.out.println("Choose 1 : To Create or Override a file");
+            System.out.println("Choose 2 : To Read a file");
+            System.out.println("Choose 3 : To Update a file");
+            System.out.println("Choose 4 : To Delete a file");
+            option = scanner.nextInt();
+        } else {
+            System.out.println("File doesn't exist! \nTo create a file please type in the content of the file and in next line enter 1 else enter 0");
+            int userInp = scanner.nextInt();
+            if (userInp == 1) {
+                content = scanner.nextLine();
+                option = userInp;
+            }
+            else{
+                option = userInp;
+            }
+        }
 
         switch (option) {
 //            3.7.2 Writing a program in Java to create a file
+            case 0:
+                System.out.println("Exiting...");
+                break;
             case 1:
                 System.out.println("Creating file " + name + " ...");
                 Files.write(Paths.get(name), content.getBytes(StandardCharsets.UTF_8));
