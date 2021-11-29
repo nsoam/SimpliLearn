@@ -34,7 +34,7 @@ public class FileHandlerEx {
             System.out.println("Options List:");
             System.out.println("Choose 1 : To Create or Override a file");
             System.out.println("Choose 2 : To Read a file");
-            System.out.println("Choose 3 : To Update a file");
+            System.out.println("Choose 3 : To Update/Append a file");
             System.out.println("Choose 4 : To Delete a file");
             option = scanner.nextInt();
         } else {
