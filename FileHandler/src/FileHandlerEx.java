@@ -23,7 +23,7 @@ public class FileHandlerEx {
         System.out.println("Please type in the name of the file");
         String name = scanner.nextLine();
         System.out.println("File name chosen: " + name);
-        String content = " ";
+        String content;
         int option ;
 
         File file = new File(name);
@@ -38,7 +38,8 @@ public class FileHandlerEx {
             System.out.println("Choose 4 : To Delete a file");
             option = scanner.nextInt();
         } else {
-            System.out.println("File doesn't exist! \nTo create a file please type in the content of the file and in next line enter 1 else enter 0");
+            System.out.println("File doesn't exist! \nTo create a file please type in the content of the file and in next line enter 1 to create the file else enter 0 to exit");
+            content = scanner.nextLine();
             int userInp = scanner.nextInt();
             if (userInp == 1) {
                 content = scanner.nextLine();

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea55c87e-d89a-408a-85e4-24926d1917e3" name="Default Changelist" comment="3.16 - Write a program to read, write, and append to a file.">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/out/production/Calculator/EmailValidation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/out/production/Calculator/EmailValidation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/src/ArithmeticCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/ArithmeticCalc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/src/EmailValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/EmailValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calculator/src/InnerClassEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Calculator/src/InnerClassEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FileHandler/FileHandlerEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FileHandler/FileHandlerEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FileHandlerEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FileHandlerEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileOperations/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../FileOperations/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\SimpliLearn\FileHandler\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="21APIsJlJzzNLHkQFXs0NPljljc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="FileHandlerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileHandlerEx" />
+      <module name="FileHandler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileHandlerEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea55c87e-d89a-408a-85e4-24926d1917e3" name="Default Changelist" comment="" />
+      <created>1637380841420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637380841420</updated>
+    </task>
+    <task id="LOCAL-00001" summary="3.12 - File Handling Mechanisms.">
+      <created>1637425574361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637425574361</updated>
+    </task>
+    <task id="LOCAL-00002" summary="3.12 - File Handling Mechanisms.- Added checks to see if file exists">
+      <created>1637441866568</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637441866569</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3.16 - Write a program to read, write, and append to a file.">
+      <created>1638153144989</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1638153144989</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3.12 - File Handling Mechanisms." />
+    <MESSAGE value="3.12 - File Handling Mechanisms.- Added checks to see if file exists" />
+    <MESSAGE value="3.16 - Write a program to read, write, and append to a file." />
+    <option name="LAST_COMMIT_MESSAGE" value="3.16 - Write a program to read, write, and append to a file." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2423" y="0" key="CommitChangelistDialog2" timestamp="1638154142916">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2423" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638154142916" />
+    <state x="4740" y="88" key="CommitChangelistDialog2/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441864346" />
+    <state width="1865" height="447" key="GridCell.Tab.0.bottom" timestamp="1638154142936">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="447" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638154142936" />
+    <state width="1865" height="361" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="349" key="GridCell.Tab.0.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441799586" />
+    <state width="1865" height="447" key="GridCell.Tab.0.center" timestamp="1638154142936">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="447" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638154142936" />
+    <state width="1865" height="361" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="349" key="GridCell.Tab.0.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441799585" />
+    <state width="1865" height="447" key="GridCell.Tab.0.left" timestamp="1638154142936">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="447" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638154142936" />
+    <state width="1865" height="361" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516196" />
+    <state width="1865" height="349" key="GridCell.Tab.0.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441799585" />
+    <state width="1865" height="447" key="GridCell.Tab.0.right" timestamp="1638154142936">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="447" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638154142936" />
+    <state width="1865" height="361" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="349" key="GridCell.Tab.0.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441799585" />
+    <state width="1865" height="361" key="GridCell.Tab.1.bottom" timestamp="1637555516197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="361" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="361" key="GridCell.Tab.1.bottom/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637422593263" />
+    <state width="1865" height="361" key="GridCell.Tab.1.center" timestamp="1637555516197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="361" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="361" key="GridCell.Tab.1.center/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637422593263" />
+    <state width="1865" height="361" key="GridCell.Tab.1.left" timestamp="1637555516197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="361" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="361" key="GridCell.Tab.1.left/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637422593263" />
+    <state width="1865" height="361" key="GridCell.Tab.1.right" timestamp="1637555516197">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="361" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1637555516197" />
+    <state width="1865" height="361" key="GridCell.Tab.1.right/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637422593263" />
+    <state x="2372" y="187" key="Vcs.Push.Dialog.v2" timestamp="1638153154332">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2372" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040/3840.0.1920.1040@1920.0.1920.1040" timestamp="1638153154332" />
+    <state x="4292" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637441881961" />
+    <state x="4476" y="265" key="git4idea.merge.GitPullDialog" timestamp="1637425448969">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4476" y="265" key="git4idea.merge.GitPullDialog/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637425448969" />
+    <state x="4070" y="42" key="new project wizard" timestamp="1637465458467">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state x="4070" y="42" key="new project wizard/0.0.1536.824/3840.0.1920.1040/1920.0.1920.1040@3840.0.1920.1040" timestamp="1637465458467" />
+  </component>
+</project>
