@@ -40,15 +40,15 @@ public class StudClassController {
 
                 ClassDetail.Student student = new ClassDetail.Student();
                 student.setStudentId(studClass.getStudent_id());
-                student.setStudentName(studClass.getStudent_name()); // TODO
+                student.setStudentName(studClass.getStudent_name());
                 List<ClassDetail.Student> students = classDetail.getStudents();
                 students.add(student);
 
                 ClassDetail.Subject subject = new ClassDetail.Subject();
                 subject.setSubjectId(studClass.getSubject_id());
-                subject.setSubjectName(studClass.getSubject_name()); // TODO
+                subject.setSubjectName(studClass.getSubject_name());
                 subject.setTeacherId(studClass.getTeacher_id());
-                subject.setTeacherName(studClass.getTeacher_name()); // TODO
+                subject.setTeacherName(studClass.getTeacher_name());
 
                 List<ClassDetail.Subject> subjects = classDetail.getSubjects();;
                 subjects.add(subject);
@@ -62,15 +62,15 @@ public class StudClassController {
 
                 ClassDetail.Student student = new ClassDetail.Student();
                 student.setStudentId(studClass.getStudent_id());
-                student.setStudentName(studClass.getStudent_name()); // TODO
+                student.setStudentName(studClass.getStudent_name());
                 List<ClassDetail.Student> students = new ArrayList<>();
                 students.add(student);
 
                 ClassDetail.Subject subject = new ClassDetail.Subject();
                 subject.setSubjectId(studClass.getSubject_id());
-                subject.setSubjectName(studClass.getSubject_name()); // TODO
+                subject.setSubjectName(studClass.getSubject_name());
                 subject.setTeacherId(studClass.getTeacher_id());
-                subject.setTeacherName(studClass.getTeacher_name()); // TODO
+                subject.setTeacherName(studClass.getTeacher_name());
 
                 List<ClassDetail.Subject> subjects = new ArrayList<>();
                 subjects.add(subject);
